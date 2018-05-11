@@ -63,13 +63,13 @@ h2{
 #container{
     font-size: 16px;
     word-spacing: 4px;
-    
+    box-sizing: 960px;
     background-color: white;
     border: 3px solid #666666;
     font-family: 'Times New Roman', Times, serif;
-    margin: 75px 75px 75px 200px;
+    margin: 75px 75px 20% 200px;
     width: 960px;
-    padding: 25px 25px 25px 25px;
+    padding: 2% 2% 2% 2%;
 }
 
 #footer{
@@ -79,7 +79,6 @@ h2{
     color: white;
     background-color: #666666;
     text-align: center;
-    
     font-size: 12px;
 }
 
@@ -90,6 +89,7 @@ h2{
     padding: 15px;
     text-align: center;
     color: white;
+    float: left;
 }
 
 #rpg{
@@ -99,6 +99,7 @@ h2{
     padding: 15px;
     text-align: center;
     color: white;
+    float: left;
 }
 
 #trivia{
@@ -108,6 +109,7 @@ h2{
     padding: 15px;
     text-align: center;
     color: white;
+    float: left;
 }
 
 #rutgers{
@@ -117,6 +119,7 @@ h2{
     padding: 15px;
     text-align: center;
     color: white;
+    float: left;
 }
 
 #rock{
@@ -126,4 +129,5 @@ h2{
     padding: 15px;
     text-align: center;
     color: white;
+    float: left;
 }
