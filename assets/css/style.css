@@ -69,3 +69,9 @@ h2{
     
     font-size: 12px;
 }
+
+#hangman{
+
+    background-color: #4aaaa5;
+    width: 200px;
+}
